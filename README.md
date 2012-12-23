@@ -1,4 +1,4 @@
 ocaml-hw-2nd-quarter
 ====================
 
-Ocaml homework
+Ale110's 2nd homework repository. 
